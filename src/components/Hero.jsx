@@ -1,6 +1,12 @@
-import { heroContent } from '../data/placeholderData.js';
+import { useTranslation } from 'react-i18next';
 
 function Hero() {
+  const { t } = useTranslation();
+  const ctas = [
+    { label: t('hero.cta.solutions'), href: '/solutions' },
+    { label: t('hero.cta.contact'), href: '/contact' }
+  ];
+
   return (
     <section className="relative overflow-hidden rounded-[40px] bg-gradient-to-br from-[#090b10] via-[#121721] to-[#1b1f2a] p-10 text-white shadow-[0_35px_80px_-35px_rgba(0,0,0,0.85)]">
       <div className="pointer-events-none absolute -right-20 top-10 h-56 w-56 rounded-full bg-[radial-gradient(circle_at_center,rgba(191,145,98,0.18),transparent_55%)] blur-3xl" />
@@ -9,11 +15,12 @@ function Hero() {
       <div className="pointer-events-none absolute right-10 top-36 h-32 w-32 rounded-full border border-white/10 shadow-[0_0_120px_20px_rgba(139,94,52,0.1)]" />
       <div className="pointer-events-none absolute left-1/2 top-14 h-52 w-52 -translate-x-1/2 rounded-full border border-brand/20 shadow-[0_0_120px_20px_rgba(139,94,52,0.12)]" />
       <div className="mx-auto max-w-4xl">
-        <p className="mb-4 text-sm uppercase tracking-[0.3em] text-slate-400">Digital Innovation</p>
-        <h1 className="mb-6 text-4xl font-semibold leading-tight sm:text-5xl">{heroContent.title}</h1>
-        <p className="mb-8 max-w-2xl text-lg leading-8 text-slate-300">{heroContent.subtitle}</p>
+        <p className="mb-4 text-sm uppercase tracking-[0.3em] text-slate-400">{t('hero.tag')}</p>
+        <h1 className="mb-6 text-4xl font-semibold leading-tight sm:text-5xl">{t('hero.title')}</h1>
+        <p className="mb-8 max-w-2xl text-lg leading-8 text-slate-300">{t('hero.subtitle')}</p>
+        
         <div className="flex flex-col gap-3 sm:flex-row">
-          {heroContent.ctas.map((cta, index) => (
+          {ctas.map((cta, index) => (
             <a
               key={cta.href}
               href={cta.href}

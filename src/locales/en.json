@@ -1,0 +1,184 @@
+{
+  "siteTitle": "Zyx Global",
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "solutions": "Solutions",
+    "technology": "Technology",
+    "caseStudies": "Case Studies",
+    "contact": "Contact"
+  },
+  "hero": {
+    "tag": "Video Technology Innovation — Since 2003, Now AI-Powered",
+    "title": "3D Conversion · 4K Upscaling · Intelligent Mosaic",
+    "subtitle": "From Hollywood productions to K-Content and global broadcasting, Zyx Global's proprietary software breaks the boundaries of content creation. Now, combined with AI, the possibilities are limitless.",
+    "cta": {
+      "solutions": "Explore Solutions",
+      "technology": "See Our Technology",
+      "contact": "Contact Us"
+    }
+  },
+  "sections": {
+    "solutions": {
+      "title": "Core Solutions",
+      "headline": "Three Proprietary Technologies",
+      "description": "Zyx Global leads the global content production industry with three independently developed software platforms: stereoscopic 3D conversion, 4K/UHD upscaling, and intelligent auto-mosaic."
+    },
+    "aiEnhanced": {
+      "title": "AI-Enhanced Solutions",
+      "headline": "Proven Technology × AI = A New Dimension",
+      "description": "We combine 20+ years of proprietary video processing expertise with cutting-edge AI and deep learning. Automated rotoscoping, neural super-resolution, and AI object tracking deliver simultaneous gains in speed and quality."
+    },
+    "caseStudies": {
+      "title": "Case Studies",
+      "headline": "Global Projects",
+      "description": "Through diverse partnerships with Hollywood studios, K-Content teams, and Japanese broadcasters, we have consistently proven our technical excellence and reliability."
+    }
+  },
+  "company": {
+    "name": "Zyx Global Co., Ltd.",
+    "address": "455/46 Village Biz Pattanakarn-Onnut New Pattanakarn Rd., Prawet, Bangkok 10250",
+    "ceo": "YOONHONG KIM (David Kim)",
+    "tel": "+66-96-224-0825",
+    "website": "https://www.zyxglobal.biz",
+    "email": ["zyxware@hotmail.com", "ai-info@zyxglobal.biz"],
+    "affiliates": ["Zyx Japan Inc. (Technical & Laboratory)", "Zyx Korea Inc. (Strategic Marketing & Sales)"],
+    "founded": "February 28, 2013",
+    "capital": "USD 100,000",
+    "employees": "10",
+    "recognition": "Thailand BOI (Board of Investment) Certified — 8-year national tax exemption, 100% foreign equity ownership (vs. the standard 49% cap for general foreign companies)"
+  },
+  "coreValues": {
+    "title": "The Philosophy Behind Our Name",
+    "headline": "What Does Zyx Mean?",
+    "description": "In three-dimensional space, placing the Z-axis (depth) before X and Y creates a stereoscopic world — that is exactly what Zyx represents. Depth of technology comes first, followed by the dimensions of relationship and creative freedom.",
+    "z": { "label": "Z-Axis — Depth", "text": "Technological depth. Seeing the world in three dimensions, beyond the surface." },
+    "y": { "label": "Y-Axis — Relationship", "text": "Vertical trust between people, partners, and companies." },
+    "x": { "label": "X-Axis — Freedom", "text": "Horizontal free thinking that transcends convention, yielding original results." },
+    "tagline": "Cherishing human relationships and creating original work through free thinking — that is Zyx Global."
+  },
+  "about": {
+    "title": "About Zyx Global",
+    "description": "Starting as a venture company in Tokyo in 2003, Zyx Global established its R&D center and dedicated 3D conversion studio in Bangkok in 2012, then formally incorporated in 2013. That same year, the Thailand Board of Investment recognized Zyx Global as the only 3D content production and technology development company in Thailand — granting an 8-year national tax exemption and 100% foreign ownership rights. Today, from our Bangkok studio, we serve global content teams with three proprietary platforms: Zyx3D, Zyx4K, and ZyxMo.",
+    "missionTitle": "Our Mission",
+    "missionText": "To empower creators, broadcasters, and filmmakers worldwide to produce faster, more affordable, and higher-quality content by combining proven video processing technology with AI.",
+    "visionTitle": "Our Vision",
+    "visionText": "Just as Z, Y, and X create three-dimensional space, Zyx Global grows into a global video technology platform where depth of technology (Z), trusted partnerships (Y), and creative freedom (X) converge."
+  },
+  "solutionsPage": {
+    "title": "Solutions",
+    "headline": "Zyx Global's Three Core Solutions",
+    "description": "Three software platforms with over 20 years of independent development history — now enhanced with AI to set the next-generation standard for the global video content industry."
+  },
+  "servicesItems": {
+    "customWebDev": {
+      "title": "Zyx3D — 2D to 3D Stereoscopic Conversion",
+      "description": "R&D started in Tokyo in 2003. Our All-in-One pipeline — Rotoscoping → Depth Mapping → Layer Tracking → Stereo Rendering → Hole Filling — handles in a single tool what previously required multiple applications. Achieves comparable quality to Titanic 3D (413 people, 17–25 weeks) with just 43 people in 14 weeks. Full support for glasses-type and glasses-free 3D displays, holographic output, and theater-grade formats.",
+      "aiNote": "AI Enhanced: Deep learning auto-rotoscoping reduces background/object separation time by 80%. AI depth estimation generates accurate stereoscopic depth from a single frame, eliminating manual keyframe setup."
+    },
+    "uiuxDesign": {
+      "title": "Zyx4K — Low-Resolution to 4K/UHD Upscaling",
+      "description": "Proprietary image processing software that upscales SD, HD, and 2K footage to 4K, and beyond to 8K. Supports all video formats: VTR, film, documentary, animation, CF, and music video. Transforms legacy broadcast archives into UHD-ready assets at low cost and in short timeframes. Proven with Sony PCL and Amazon Japan.",
+      "aiNote": "AI Enhanced: Neural super-resolution (deep learning-based) goes beyond simple pixel interpolation — it intelligently understands and reconstructs textures, edges, and color intent from the original footage, delivering results 2× sharper than conventional upscaling."
+    },
+    "digitalStrategy": {
+      "title": "ZyxMo — Intelligent Automatic Mosaic",
+      "description": "Three-step automated mosaic solution for portrait rights protection, offensive content removal, product placement masking, and trademark blurring — essential for broadcast, OTT, and social platforms. Continuously tracks and masks objects across consecutive frames, dramatically reducing editing time.",
+      "aiNote": "AI Enhanced: AI facial recognition, multi-object detection, and semantic segmentation enable fully automatic mosaicking with no manual intervention. Handles thousands of frames in real time; predictive motion algorithms accurately track even fast-moving or overlapping subjects."
+    }
+  },
+  "technologyPage": {
+    "title": "Technology",
+    "headline": "ZyxWare — Integrated Video Processing Platform",
+    "description": "Zyx3D + Zyx4K + ZyxMo unified in a single enterprise-grade platform. Includes a real-time Project Management System (PMS) for multi-team collaboration, server management, and security authentication.",
+    "platformTitle": "ZyxWare Platform Architecture",
+    "platformDescription": "A single All-in-One software suite integrating 3D conversion, 4K upscaling, and auto-mosaic. Features built-in PMS for real-time cross-team data sharing, secure authentication server, and online collaboration — scalable from indie productions to Hollywood-level pipelines.",
+    "historyTitle": "Technology Development Timeline",
+    "history": [
+      { "year": "2003", "event": "Core research on 3D automation software begins in Tokyo" },
+      { "year": "2010", "event": "3D Auto Software All-In-One framework and core technology development" },
+      { "year": "2011", "event": "Vector layer rotoscoping, depth map conversion algorithm, Beta 1.0" },
+      { "year": "2012", "event": "Full stereo rendering engine completed (parallax & barrier types), Beta 2.0" },
+      { "year": "2013", "event": "ZyxWare 2D→3D Semi-auto v1.0 release, Zyx4K Beta v1.0" },
+      { "year": "2014", "event": "ZyxWare v1.5, 4K Auto v1.0, Management System v1.0 released; MOU with Sony" },
+      { "year": "2015–2018", "event": "K-Content co-productions, Zyx3D IP registration, MOU with Lotte Duty Free" },
+      { "year": "2019–2020", "event": "Chiang Mai LED & 3D Theme Park, ZyxMo Mosaic Touch commercialized" },
+      { "year": "2024–Present", "event": "AI & deep learning integration — 80%+ automation, ZyxWare AI Edition in development" }
+    ],
+    "comparisonTitle": "Why Zyx3D? — Industry Benchmark",
+    "comparison": {
+      "titanic": "Titanic 3D (2012): 413 people · 17–25 weeks · USD 18 million",
+      "zyx": "Zyx3D: 43 people · 14 weeks · Dramatically reduced cost — equivalent quality"
+    }
+  },
+  "aiSection": {
+    "title": "AI-Enhanced Services",
+    "headline": "20 Years of Technology × AI = Redefining Content Creation",
+    "description": "Zyx Global fuses its independently developed video processing engines — built and proven since 2003 — with state-of-the-art AI and deep learning. Unlike AI-only solutions, our approach layers intelligence on top of validated algorithms, delivering reliable, predictable results at scale.",
+    "items": [
+      {
+        "title": "AI-Zyx3D: Autonomous Stereo Conversion",
+        "description": "AI comprehends scene semantics and automatically sets optimal depth. Deep learning handles the rotoscoping that used to require manual work on every keyframe — cutting production time by 80%."
+      },
+      {
+        "title": "AI-Zyx4K: Intelligent Super-Resolution",
+        "description": "Neural networks recognize in-frame objects and intelligently reconstruct textures, edges, and color. Produces 4K/8K results 2× sharper and more natural than conventional upscaling."
+      },
+      {
+        "title": "AI-ZyxMo: Real-Time Intelligent Mosaic",
+        "description": "AI facial recognition and multi-object tracking deliver real-time, fully automatic mosaicking. No frame is missed, even with rapid movement or overlapping subjects."
+      }
+    ]
+  },
+  "caseStudiesPage": {
+    "title": "Case Studies",
+    "headline": "Global Project Portfolio",
+    "description": "From Hollywood majors to K-Content broadcasters and Japanese technology partners, Zyx Global's track record spans the full spectrum of global content production."
+  },
+  "portfolioItems": {
+    "aiDiagnostics": {
+      "title": "D-War (The War) — 3D Co-Production",
+      "description": "3D conversion and international co-production of 'The War 2' (2016) directed by Shim Hyung-rae. Co-produced with Picture Land Co. (Seoul) and Chinese investor group. Also signed MOU with Lotte Duty Free for K-content marketing, validating Zyx3D's global commercial competitiveness."
+    },
+    "drClone": {
+      "title": "Hollywood 3D Content Partnership",
+      "description": "Visited and presented to Legend3D (the world's top 3D conversion studio) in 2013 — received an 'excellent' rating. Followed by Reliance Media Works (Hollywood) presentation in 2014. Technical discussions with Warner Brothers. A landmark moment in placing Zyx3D technology on the global stage."
+    },
+    "knowledgeRouter": {
+      "title": "Busan International Film Festival (BIFF 2013)",
+      "description": "Participated as Thailand's official representative with support from Thailand's Agency for Cultural Affairs. Hosted a glasses-free 3D technology demonstration booth, which received an official visit from H.R.H. the Royal Thai Princess. Featured in a Thai national broadcaster (CH9) interview and received a commemorative plaque from the BOI Commissioner."
+    },
+    "heartwellPilot": {
+      "title": "K-Content Globalization",
+      "description": "Co-production and distribution agreements with Gwangju MBC and Global K Center for Korean Wave content. 3D conversion production for KARA's Tokyo Dome concert. Contributed to expanding global reach and new revenue streams for K-Content IP."
+    },
+    "sonyAmazon": {
+      "title": "Sony PCL & Amazon Japan — B2B Collaboration",
+      "description": "3D conversion consultancy for Sony PCL. Amazon Japan product image video and PV conversion (9 product videos). Also produced 3D/4K conversions for Star Trek trailer, Samsung S4 TVC, and Korean TV dramas — demonstrating cross-format technical versatility."
+    },
+    "thaiGovernment": {
+      "title": "Thailand BOI Certification — Only 3D Company in Thailand",
+      "description": "Following five months of rigorous government review, Zyx Global was officially recognized by the Thailand Board of Investment as the sole 3D content production and technology development company in Thailand. Benefits include: 8-year national tax exemption, 100% foreign equity (vs. 49% standard cap), dedicated immigration lanes, unlimited visas and work permits, and unrestricted property ownership."
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "description": "We welcome inquiries about 3D conversion, 4K upscaling, auto-mosaic, AI-enhanced services, business partnerships, and project consultations of any scale.",
+    "emailLabel": "Email",
+    "phoneLabel": "Phone",
+    "addressLabel": "Address",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "namePlaceholder": "Your Name",
+      "emailPlaceholder": "your@company.com",
+      "messagePlaceholder": "Describe your project and inquiry",
+      "submit": "Send Message"
+    }
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "madeWith": "Built with React, Vite, and Tailwind CSS"
+  }
+}

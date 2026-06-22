@@ -1,0 +1,34 @@
+{
+  "siteTitle": "Company",
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "contact": "Contact"
+  },
+  "hero": {
+    "tag": "Digital Innovation",
+    "title": "We build beautiful products",
+    "subtitle": "Design, develop, and deliver",
+    "cta": {
+      "services": "Our Services",
+      "contact": "Contact Us"
+    }
+  },
+  "sections": {
+    "services": {
+      "title": "Our Services",
+      "headline": "What we deliver",
+      "description": "We create digital products that help companies grow, communicate, and delight customers."
+    },
+    "portfolio": {
+      "title": "Portfolio",
+      "headline": "Selected work"
+    }
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "madeWith": "Made with React, Vite, and Tailwind CSS."
+  }
+}

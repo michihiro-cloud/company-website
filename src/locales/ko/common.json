@@ -1,0 +1,34 @@
+{
+  "siteTitle": "회사",
+  "nav": {
+    "home": "홈",
+    "about": "소개",
+    "services": "서비스",
+    "portfolio": "포트폴리오",
+    "contact": "문의"
+  },
+  "hero": {
+    "tag": "디지털 혁신",
+    "title": "아름다운 제품을 만듭니다",
+    "subtitle": "설계, 개발, 그리고 전달",
+    "cta": {
+      "services": "서비스",
+      "contact": "문의하기"
+    }
+  },
+  "sections": {
+    "services": {
+      "title": "서비스",
+      "headline": "우리가 제공하는 것",
+      "description": "우리는 회사의 성장, 소통, 고객 만족을 돕는 디지털 제품을 만듭니다."
+    },
+    "portfolio": {
+      "title": "포트폴리오",
+      "headline": "선별된 작업"
+    }
+  },
+  "footer": {
+    "rights": "모든 권리 보유.",
+    "madeWith": "React, Vite, Tailwind CSS로 제작되었습니다."
+  }
+}

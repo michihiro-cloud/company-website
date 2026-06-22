@@ -1,0 +1,184 @@
+{
+  "siteTitle": "Zyx Global",
+  "nav": {
+    "home": "ホーム",
+    "about": "会社概要",
+    "solutions": "ソリューション",
+    "technology": "技術力",
+    "caseStudies": "事例",
+    "contact": "お問い合わせ"
+  },
+  "hero": {
+    "tag": "映像技術イノベーション — 2003年から、いまAIへ",
+    "title": "3D変換・4Kアップスケール・インテリジェントモザイク",
+    "subtitle": "ハリウッド、K-コンテンツ、グローバル放送を舞台に、Zyx Globalの独自ソフトウェアがコンテンツ制作の限界を超えます。いまAIとの融合によって、その可能性は無限に広がります。",
+    "cta": {
+      "solutions": "ソリューションを見る",
+      "technology": "技術力を見る",
+      "contact": "お問い合わせ"
+    }
+  },
+  "sections": {
+    "solutions": {
+      "title": "コアソリューション",
+      "headline": "3つの独自技術",
+      "description": "Zyx Globalは、立体3D変換・4K/UHDアップスケール・インテリジェント自動モザイクという3つの独自開発ソフトウェアで、グローバルなコンテンツ制作業界をリードしています。"
+    },
+    "aiEnhanced": {
+      "title": "AI強化ソリューション",
+      "headline": "実証済み技術 × AI = 新たな次元",
+      "description": "20年以上にわたる独自の映像処理技術に最新のAI・ディープラーニングを融合しました。自動ロトスコーピング、ニューラル超解像、AIオブジェクト追跡により、制作スピードと品質が同時に飛躍します。"
+    },
+    "caseStudies": {
+      "title": "事例",
+      "headline": "グローバルプロジェクト",
+      "description": "ハリウッドスタジオ、K-コンテンツ制作チーム、日本の放送局との多様なパートナーシップを通じて、一貫して技術力と信頼性を実証してきました。"
+    }
+  },
+  "company": {
+    "name": "Zyx Global Co., Ltd.",
+    "address": "455/46 Village Biz Pattanakarn-Onnut New Pattanakarn Rd., Prawet, Bangkok 10250",
+    "ceo": "キム・ユンホン（YOONHONG KIM / David Kim）",
+    "tel": "+66-96-224-0825",
+    "website": "https://www.zyxglobal.biz",
+    "email": ["zyxware@hotmail.com", "ai-info@zyxglobal.biz"],
+    "affiliates": ["Zyx Japan Inc. (Technical & Laboratory)", "Zyx Korea Inc. (Strategic Marketing & Sales)"],
+    "founded": "2013年2月28日",
+    "capital": "USD 100,000",
+    "employees": "10名",
+    "recognition": "タイ政府BOI（Board of Investment）認定企業 — 8年間の国税免除、外国人持ち株比率100%許可（通常の外国系企業の上限49%を大きく超える特別待遇）"
+  },
+  "coreValues": {
+    "title": "社名に込められた哲学",
+    "headline": "「Zyx」とは何か？",
+    "description": "3次元空間において「深さ（Depth）」を表すZ軸をX・Yより先に置いたのが「Zyx」です。立体的思考を最前面に置く技術哲学であり、X・Y・Z三次元のように、人と人の関係を大切にし、自由な発想から独創的な成果物を生み出す企業精神を体現しています。",
+    "z": { "label": "Z軸 — 深さ（Depth）", "text": "技術の深み。表面を超え、立体的に世界を見通す視点。" },
+    "y": { "label": "Y軸 — 関係（Relationship）", "text": "人と人、企業とパートナーの間の縦の信頼関係。" },
+    "x": { "label": "X軸 — 自由（Freedom）", "text": "固定観念を超えた横の自由な発想と、独創的な成果物。" },
+    "tagline": "人と人のRelationshipを大事にし、自由思想に基づき独創的な結果物を作る企業 — Zyx Global"
+  },
+  "about": {
+    "title": "Zyx Globalについて",
+    "description": "2003年に東京でベンチャー企業として研究を開始し、2012年にバンコクにR&Dセンターと3D変換専用スタジオを設立、2013年に正式設立しました。同年、タイ政府投資庁（BOI）からタイ国内唯一の3Dコンテンツ制作・技術開発企業として公式認定を受け、8年間の国税免除と外国人持ち株比率100%許可という特別な地位を取得しました。現在、バンコクスタジオを拠点にZyx3D・Zyx4K・ZyxMoの3つの独自ソフトウェアで世界のコンテンツ制作チームにサービスを提供しています。",
+    "missionTitle": "当社の使命",
+    "missionText": "実証済みの映像処理技術とAIを融合させることで、世界中のクリエイター・放送局・映画制作チームがより速く、より低コストで、より高品質なコンテンツを制作できるよう支援します。",
+    "visionTitle": "当社のビジョン",
+    "visionText": "Z・Y・X三軸が立体空間を生み出すように、Zyx Globalは技術の深み（Z）・信頼のパートナーシップ（Y）・創造的自由（X）が融合したグローバル映像技術プラットフォームへと成長します。"
+  },
+  "solutionsPage": {
+    "title": "ソリューション",
+    "headline": "Zyx Globalの3つのコアソリューション",
+    "description": "20年以上の独自開発の歴史を持つ3つのソフトウェアプラットフォーム。いまAI技術との融合によって、グローバルなビデオコンテンツ業界の次世代標準を定義します。"
+  },
+  "servicesItems": {
+    "customWebDev": {
+      "title": "Zyx3D — 2D→3D立体変換",
+      "description": "2003年に東京で研究を開始し、20年以上蓄積した独自技術。ロトスコーピング→デプスマッピング→レイヤートラッキング→ステレオレンダリング→ホールフィリングの5段階All-in-Oneパイプラインで、従来は複数のソフトウェアが必要だった作業を単一ツールで処理。タイタニック3D変換（413名・17〜25週）の約1/10にあたる43名・14週で同等品質を実現。裸眼3Dディスプレイ、ホログラム出力、シアターグレードフォーマットを完全サポート。",
+      "aiNote": "AI強化: ディープラーニング自動ロトスコーピングにより背景・オブジェクト分離時間を80%短縮。AIデプス推定モデルが手動キーフレーム設定なしで正確な立体感を生成します。"
+    },
+    "uiuxDesign": {
+      "title": "Zyx4K — 低解像度→4K/UHDアップスケール",
+      "description": "SD・HD・2K映像を4K・8K UHDにアップスケールする独自イメージプロセッシングソフトウェア。VTR・映画・ドキュメンタリー・アニメ・CF・MVなど全フォーマット対応。低コスト・短期間で放送局・制作会社のレガシー資産をUHD時代に対応させます。Sony PCL、Amazon Japanとの協力実績あり。",
+      "aiNote": "AI強化: ディープラーニング超解像（Super Resolution）アルゴリズム適用により、単純なピクセル補間を超え、元映像の意味・テクスチャー・色彩を理解して復元。従来手法の2倍鮮明な4K映像を提供します。"
+    },
+    "digitalStrategy": {
+      "title": "ZyxMo — インテリジェント自動モザイク",
+      "description": "肖像権保護・不適切コンテンツ除去・PPL削除・商標マスキングなど、放送・OTT・SNSプラットフォームで不可欠なモザイク処理を3ステップで自動化。連続フレームにわたってオブジェクトを自動追跡・マスキングし、編集時間を劇的に短縮します。",
+      "aiNote": "AI強化: AI顔認識・マルチオブジェクト検出・セマンティックセグメンテーションにより、手動操作なしで完全自動モザイクを実現。数千フレームをリアルタイム処理し、高速移動・重なり合うオブジェクトも漏れなく追跡します。"
+    }
+  },
+  "technologyPage": {
+    "title": "技術力",
+    "headline": "ZyxWare — 統合映像処理プラットフォーム",
+    "description": "Zyx3D + Zyx4K + ZyxMoを一つのプラットフォームに統合。リアルタイムPMS（プロジェクト管理システム）、セキュリティ認証サーバー、オンライン協業機能を備えたエンタープライズグレードの映像処理ソリューションです。",
+    "platformTitle": "ZyxWareプラットフォーム構成",
+    "platformDescription": "3D変換・4Kアップスケール・自動モザイクを統合管理するAll-in-Oneソフトウェアスイート。チーム間リアルタイムデータ共有・セキュリティ認証・オンライン協業に対応したPMS内蔵。インディー制作からハリウッドレベルのパイプラインまでスケール対応。",
+    "historyTitle": "技術開発の沿革",
+    "history": [
+      { "year": "2003年", "event": "東京で3D自動化ソフトウェアのコア技術研究開始" },
+      { "year": "2010年", "event": "3D Auto Software All-In-Oneフレームワーク・コア技術開発" },
+      { "year": "2011年", "event": "ベクターレイヤーロトスコーピング・デプスマップ変換アルゴリズム、Beta 1.0" },
+      { "year": "2012年", "event": "ステレオレンダリングエンジン完成（パラレックス・バリア方式）、Beta 2.0" },
+      { "year": "2013年", "event": "ZyxWare 2D→3D Semi-auto v1.0正式リリース、Zyx4K Beta v1.0" },
+      { "year": "2014年", "event": "ZyxWare v1.5・4K Auto v1.0・管理システムv1.0リリース、Sony MOU" },
+      { "year": "2015〜2018年", "event": "K-コンテンツ共同制作、Zyx3D知的財産権登録、ロッテ免税店MOU" },
+      { "year": "2019〜2020年", "event": "チェンマイLED・3DテーマパークプロジェクトZyxMo Mosaic Touch商用化" },
+      { "year": "2024年〜現在", "event": "AI・ディープラーニング統合 — 自動化率80%以上、ZyxWare AI Edition開発中" }
+    ],
+    "comparisonTitle": "なぜZyx3Dなのか？ — 業界比較",
+    "comparison": {
+      "titanic": "タイタニック3D（2012年）: 413名・17〜25週・1,800万USD",
+      "zyx": "Zyx3D: 43名・14週・大幅なコスト削減 — 同等品質"
+    }
+  },
+  "aiSection": {
+    "title": "AI強化サービス",
+    "headline": "20年の技術 × AI = コンテンツ制作の再定義",
+    "description": "Zyx Globalは2003年から独自開発してきた映像処理エンジンに、最新のAI・ディープラーニング技術を融合させます。実証済みアルゴリズムの上にAIを重ねることで、AI単体ソリューションとは異なり、安定した予測可能な結果をスケールで保証します。",
+    "items": [
+      {
+        "title": "AI-Zyx3D: 自律立体変換",
+        "description": "AIがシーンを理解し、最適なデプスを自動設定。毎キーフレームで手作業が必要だったロトスコーピングをAIが代替し、制作時間を80%短縮します。"
+      },
+      {
+        "title": "AI-Zyx4K: インテリジェント超解像",
+        "description": "ニューラルネットワークがフレーム内のオブジェクトを認識し、テクスチャー・エッジ・色彩を知的に復元。従来のアップスケール比2倍鮮明・自然な4K/8K映像を生成します。"
+      },
+      {
+        "title": "AI-ZyxMo: リアルタイムインテリジェントモザイク",
+        "description": "AI顔認識とマルチオブジェクト追跡によるリアルタイム完全自動モザイク。高速移動・重なり合う被写体でも一フレームも見逃しません。"
+      }
+    ]
+  },
+  "caseStudiesPage": {
+    "title": "事例",
+    "headline": "グローバルプロジェクトポートフォリオ",
+    "description": "ハリウッドメジャー、K-コンテンツ放送局、日本・タイのパートナー企業との協業を通じて、技術力と信頼性を一貫して実証してきました。"
+  },
+  "portfolioItems": {
+    "aiDiagnostics": {
+      "title": "D-War（The War）— 3D共同制作",
+      "description": "シム・ヒョンラ監督の『ザ・ウォー2』（2016年）の3D変換・国際共同制作。Picture Land Co.（ソウル）と中国投資グループとの協力によりZyx3D技術のグローバル商業競争力を実証。ロッテ免税店とのK-コンテンツマーケティングMOUも締結。"
+    },
+    "drClone": {
+      "title": "ハリウッド3Dコンテンツ・パートナーシップ",
+      "description": "2013年に世界最大の3D変換スタジオLegend3Dを訪問しプレゼンを実施 — 「優秀」評価を獲得。2014年にはReliance Media Works（ハリウッド）でもプレゼン。ワーナー・ブラザーズとの技術協力協議も実施。Zyx3D技術をグローバルステージに正式に紹介した歴史的な一歩。"
+    },
+    "knowledgeRouter": {
+      "title": "釜山国際映画祭（BIFF 2013）",
+      "description": "タイ文化庁の公式支援でBIFF 2013にタイ代表企業として参加。裸眼3D技術デモブースにタイ王室プリンセスが公式訪問。タイ国営放送（CH9）インタビュー、BOI長官から記念楯授与。"
+    },
+    "heartwellPilot": {
+      "title": "K-コンテンツグローバル化",
+      "description": "光州MBC・Global K Centerと韓流コンテンツの3D変換・国際配給に関する共同制作・提携契約。KARAの東京ドームコンサート3D変換制作実績。K-コンテンツIPのグローバル展開と新収益モデル創出に貢献。"
+    },
+    "sonyAmazon": {
+      "title": "Sony PCL・Amazon Japan — B2Bコラボレーション",
+      "description": "Sony PCL向け3D変換コンサルティング。Amazon Japan製品画像映像・PV変換（製品映像9本）。Star Tracterトレーラー、Samsung S4 TVC、韓国TVドラマなど多様なフォーマットの変換実績により、クロスフォーマット技術の多様性を実証。"
+    },
+    "thaiGovernment": {
+      "title": "タイBOI公式認定 — タイ国内唯一の3D企業",
+      "description": "5ヶ月間の厳格な審査を経て、タイ政府投資庁（BOI）からタイ国内唯一の3Dコンテンツ制作・技術開発企業として公式認定。特典：8年間の国税免除・外国人持ち株比率100%許可（通常上限49%）・専用出入国レーン・無制限ビザ・労働許可・財産の自由な所有売買。"
+    }
+  },
+  "contact": {
+    "title": "お問い合わせ",
+    "description": "3D変換・4Kアップスケール・自動モザイク・AI強化サービスに関する事業提案、技術協力、プロジェクトのご相談など、どのようなお問い合わせも歓迎します。",
+    "emailLabel": "メール",
+    "phoneLabel": "電話",
+    "addressLabel": "住所",
+    "form": {
+      "name": "氏名",
+      "email": "メール",
+      "message": "メッセージ",
+      "namePlaceholder": "お名前",
+      "emailPlaceholder": "your@company.com",
+      "messagePlaceholder": "プロジェクト内容とお問い合わせ内容をご入力ください",
+      "submit": "送信"
+    }
+  },
+  "footer": {
+    "rights": "著作権所有。",
+    "madeWith": "React、Vite、Tailwind CSSで構築"
+  }
+}
